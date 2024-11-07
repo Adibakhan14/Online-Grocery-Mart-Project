@@ -1,4 +1,4 @@
-Online Grocery Mart DBMS Project
+### Online Grocery Mart DBMS Project
 
 Project Overview
 This project is a Database Management System (DBMS) for managing the operations of a grocery mart. The DBMS is designed to handle all key business processes such as customer management, product inventory, order processing, payment tracking, and supplier management. The system aims to ensure efficient inventory control, secure order processing, and proper supplier coordination.
