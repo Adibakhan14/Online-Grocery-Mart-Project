@@ -1,30 +1,45 @@
-### Online Grocery Mart DBMS Project
+# 🛒 Online Grocery Mart - DBMS Project
 
-Project Overview
-This project is a Database Management System (DBMS) for managing the operations of a grocery mart. The DBMS is designed to handle all key business processes such as customer management, product inventory, order processing, payment tracking, and supplier management. The system aims to ensure efficient inventory control, secure order processing, and proper supplier coordination.
+A Database Management System to streamline grocery mart operations like customer handling, inventory tracking, order processing, payments, and supplier coordination.
 
-Project Features
+## 📌 Features
 
-1. Customer Management:
-Stores customer information such as name, email, and contact details.
-Allows tracking of orders linked to each customer.
+### 👥 Customer Management  
+Stores customer info and links orders to individual customers.
 
-2. Product and Category Management:
-Each product is associated with a category (e.g., Dairy, Fruits, Vegetables) and supplier.
-Tracks product details such as price and quantity available in inventory.
+### 🛍️ Product & Category  
+Manages products by category (e.g., Dairy, Fruits) and links each to a supplier.
 
-3. Inventory Management:
-Tracks the current quantity of each product in stock.
-Updates automatically as orders are placed or new products are received.
+### 📦 Inventory Control  
+Tracks product stock levels, auto-updated on orders/restocking.
 
-4. Order Management:
-Handles customer orders, including order details, total amount, and order date.
-Links orders to customers and payments for better tracking.
+### 🧾 Order Management  
+Handles orders with date, amount, customer & payment linkage.
 
-5. Payment Processing:
-Records payments for each order with details like payment method and amount.
-Ensures proper order fulfillment and payment validation.
+### 💳 Payment Tracking  
+Logs payment method and amount for each order.
 
-6. Supplier Management:
-Stores supplier details, enabling the system to track product sources and restocking.
+### 🤝 Supplier Management  
+Stores supplier details and tracks product sources.
 
+## 🧑‍💻 Tech Stack
+
+- 💾 MySQL for database design  
+- ⚙️ SQL (DDL/DML) for implementation  
+- 🗺️ ERD for entity relationships
+
+## 🗃️ Entities & Relationships (ER Diagram Overview)
+
+![image](https://github.com/user-attachments/assets/439b175d-a41a-422c-9c35-28f5ea4d041f)
+
+
+## 👩‍🎓 Author
+
+**Adiba Khan**  
+📧 khanadiba595@gmail.com  
+🔗 [GitHub](https://github.com/Adibakhan14)  
+🔗 [LinkedIn](https://linkedin.com/in/adiba-khan-94727a269)
+
+## 📃 License
+
+MIT License
